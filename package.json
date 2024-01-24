@@ -1,0 +1,15 @@
+{
+  "name": "random-str-ms-dk",
+  "version": "1.0.0",
+  "description": "pack mensaje aleatorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "bin":{
+    "random-str-ms-dk": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
